@@ -81,7 +81,7 @@ class Table extends Component {
             className="col-lg-10 col-md-10 col-xs-12 col-sm-12 offset-lg-1"
           >
             <div className="alert alert-danger" role="alert">
-              Todo List is empty or Filter results show no results
+              Todo List is empty 
             </div>
           </div>
         )}{" "}
